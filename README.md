@@ -6,7 +6,7 @@
 - 📫 How to reach me: Email - [ostojic.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ostojic.dev@gmail.com) LinkedIn - [Slobodan Ostojić](https://www.linkedin.com/in/slobodan-ostoji%C4%87-7006101b4/)
 
 
-**Languages and Tools:**  
+**Some of the technologies and tools I use:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>

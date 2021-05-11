@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Adventuro](https://github.com/ostojics/Adventuro)
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me: Email - [ostojic.dev@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=ostojic.dev@gmail.com) LinkedIn - [Slobodan Ostojić](https://www.linkedin.com/in/slobodan-ostoji%C4%87-7006101b4/)
 
 

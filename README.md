@@ -1,7 +1,5 @@
 ### Hi there, I'm Slobodan Ostojić 👋
 
-
-- 🔭 I’m working on [E-Commerce Shop](https://github.com/ostojics/e-commerce-shop)
 - 🌱 I’m currently improving my React.js knowledge and introducing myself to the back-end world.
 - 📫 How to reach me: Email - [slobodan.ostojic@axiomq.com](https://mail.google.com/mail/?view=cm&fs=1&to=slobodan.ostojic@axiomq.com) LinkedIn - [Slobodan Ostojić](https://www.linkedin.com/in/slobodan-ostoji%C4%87-7006101b4/)
 

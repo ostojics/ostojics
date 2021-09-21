@@ -44,7 +44,7 @@ Currently, I'm working at [AxiomQ](https://axiomq.com)
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ostojics&show_icons=true&theme=algolia" alt="ostojics" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ostojics&show_icons=true&theme=algolia" alt="ostojics" />
 
 
 

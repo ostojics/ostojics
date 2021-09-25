@@ -10,7 +10,7 @@
 <br />
 
 
-Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), Web Developer and IT Engineering student. MERN is my go-to stack, right now I'm learning TypeScript and after that React Native.
+Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), Web Developer and IT Engineering student. MERN is my go-to stack, right now I'm learning TypeScript and after that React Native
 
 Currently, I'm working at [AxiomQ](https://axiomq.com)  
 

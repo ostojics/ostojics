@@ -12,7 +12,7 @@
 
 Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), Web Developer and IT Engineering student. MERN is my go-to stack, currently I'm learning Remix Run
 
-Currently, I'm working at [AxiomQ](https://axiomq.com)  
+I'm working at [AxiomQ](https://axiomq.com)  
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />

@@ -10,7 +10,7 @@
 <br />
 
 
-Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), Web Developer and IT Engineering student. MERN is my go-to stack, currently I'm learning Remix Run
+Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), Web Developer and IT Engineering student. MERN is my go-to stack.
 
 I'm working at [AxiomQ](https://axiomq.com)  
 

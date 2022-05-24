@@ -37,16 +37,16 @@ I'm working at [AxiomQ](https://axiomq.com)
 <br />
 <br />
 
-<a href="https://app.daily.dev/ostojics"><img src="https://api.daily.dev/devcards/365599f23b634788b16c812d42e4241d.png?r=v68" width="400" alt="Slobodan Ostojic's Dev Card"/></a>
-
-<br />
-<br />
-<br />
-<br />
-
 📈 my github stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ostojics&show_icons=true&theme=algolia" alt="ostojics" />
+
+<br />
+<br />
+<br />
+<br />
+
+<a href="https://app.daily.dev/ostojics"><img src="https://api.daily.dev/devcards/365599f23b634788b16c812d42e4241d.png?r=v68" width="400" alt="Slobodan Ostojic's Dev Card"/></a>
 
 
 

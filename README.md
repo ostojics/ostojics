@@ -32,14 +32,8 @@ I'm working at [AxiomQ](https://axiomq.com)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 
-<br />
-<br />
-<br />
-<br />
 
-📈 my github stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ostojics&show_icons=true&theme=algolia" alt="ostojics" />
 
 
 

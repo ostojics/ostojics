@@ -10,7 +10,7 @@
 <br />
 
 
-Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), Web Developer and IT Engineering student.
+Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), a Web Developer.
 
 I'm working at [AxiomQ](https://axiomq.com)  
 

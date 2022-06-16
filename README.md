@@ -1,16 +1,16 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+
+<br />
+<br />
+
+
+Hi, I'm Slobodan Ostojić, a Web Developer.
+
 <a href="https://www.linkedin.com/in/slobodan-ostojić-7006101b4/">
   <img align="left" alt="Slobodan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
-
-<br />
-<br />
-
-
-Hi, I'm [Slobodan Ostojić](https://slobodan-ostojic.netlify.app/), a Web Developer.
 
 I'm working at [AxiomQ](https://axiomq.com)  
 

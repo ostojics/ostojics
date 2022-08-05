@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Slobodan. I'm a Frontend Developer at AxiomQ and IT engineering student.</h2>
+<h2 align="left">Hi 👋! <br>My name is Slobodan, I'm a Frontend Developer at AxiomQ</h2>
 
 ###
 
